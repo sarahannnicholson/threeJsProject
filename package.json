@@ -5,10 +5,12 @@
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "three-obj-loader": "^1.1.3"
   },
   "devDependencies": {
-    "three": "^0.93.0"
+    "three": "^0.93.0",
+    "wwobjloader2": "^2.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
